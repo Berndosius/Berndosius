@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Berndosius and I'm from germany.
-- 👀 I’m interested in Programming ,Hacking Challenges and anything Linux related.
+- 👀 I’m interested in programming ,hacking challenges and anything Linux related.
 - 🌱 I’m currently learning web development.
